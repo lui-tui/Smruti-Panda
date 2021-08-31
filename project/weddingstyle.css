@@ -4,7 +4,7 @@ body{
 
 #maindiv{
 	width: 1903px;
-	height: 1845px;
+	height: 2081px;
 	margin: 0 auto;
 	background: #18201F;
 	background-image: url(bg1.jpg);
@@ -16,12 +16,12 @@ body{
 }
 
 #logo{
-	font-family: serif;
 	text-align: center;
-	color: whitesmoke;
-	font-size: 3em;
-	margin: 0px;
-	padding-top: 20px;
+	font-family: serif;
+	color: white;
+	font-weight: bolder;
+	letter-spacing: 1px;
+	padding-top: 50px;
 }
 
 #logo1{
@@ -29,11 +29,58 @@ body{
 	font-size: 2em;
 	text-align: center;
 	letter-spacing: 1px;
+	margin-top: 20px;
+}
+
+#div1{
+	width: 800px;
+	height: 30px;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+#div1 a{
+	color: navajowhite;
+	text-decoration: none;
+	font-size: 15px;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+
+#div1 a:hover{
+	color: whitesmoke;
+}
+
+#dd1menu a{
+	color: grey;
+}
+
+#dd1menu a:hover{
+	color: black;
+}
+
+#dd1menu{
+	margin-top: -5px;
+}
+
+#dd1:hover > #dd1menu{
+	display: block;
+}
+
+#weddingdetails p{
+	width: 1300px;
+	margin: 0 auto;
+	color: whitesmoke;
+	text-align: center;
+	margin-top: 80px;
 }
 
 #imgs{
 	width: 1903px;
-	height: 1665px;
+	height: 1661px;
+	margin-top: 30px;
 }
 
 #img1{

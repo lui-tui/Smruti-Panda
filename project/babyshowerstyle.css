@@ -4,32 +4,81 @@ body{
 
 #maindiv{
 	width: 1903px;
-	height: 2456px;
+	height: 2612px;
 	background: url(bg1.jpg);
+}
+
+#head{
+	width: 1903px;
+	height: 180px;
 }
 
 #logo{
 	text-align: center;
-	font-size: 3em;
 	font-family: serif;
-	color: whitesmoke;
-	margin: 0;
-	padding-top: 20px;
+	color: white;
+	font-weight: bolder;
+	letter-spacing: 1px;
+	padding-top: 50px;
 }
 
 #logo1{
-	text-align: center;
-	font-size: 2em;
 	color: whitesmoke;
+	font-size: 2em;
+	text-align: center;
 	letter-spacing: 1px;
-	margin-left: 12.5px;
-	font-family: serif;
+	margin-top: 20px;
+}
+
+#divhead{
+	width: 800px;
+	height: 30px;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+#divhead a{
+	color: navajowhite;
+	text-decoration: none;
+	font-size: 15px;
+	letter-spacing: 2px;
 	font-weight: bold;
+}
+
+#divhead a:hover{
+	color: whitesmoke;
+}
+
+#dd1menu a{
+	color: grey;
+}
+
+#dd1menu a:hover{
+	color: black;
+}
+
+#dd1menu{
+	margin-top: -5px;
+}
+
+#dd1:hover > #dd1menu{
+	display: block;
+}
+
+#babyshowerdetails p{
+	width: 1300px;
+	margin: 0 auto;
+	color: whitesmoke;
+	text-align: center;
+	margin-top: 80px;
 }
 
 #imgs{
 	width: 1903px;
-	height: 1000px;
+	height: 1665px;
+	margin-top: 25px;
 }
 
 #div1{
