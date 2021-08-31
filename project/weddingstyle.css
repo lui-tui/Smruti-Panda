@@ -1,0 +1,81 @@
+body{
+	margin: 0 auto;
+}
+
+#maindiv{
+	width: 1903px;
+	height: 1845px;
+	margin: 0 auto;
+	background: #18201F;
+	background-image: url(bg1.jpg);
+}
+
+#head{
+	width: 1903px;
+	height: 180px;
+}
+
+#logo{
+	font-family: serif;
+	text-align: center;
+	color: whitesmoke;
+	font-size: 3em;
+	margin: 0px;
+	padding-top: 20px;
+}
+
+#logo1{
+	color: whitesmoke;
+	font-size: 2em;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+#imgs{
+	width: 1903px;
+	height: 1665px;
+}
+
+#img1{
+	float: left;
+}
+
+#img2{
+	float: right;
+}
+
+#img3{
+	margin-left: 10px;
+}
+
+#img7{
+	float: right;
+	margin-top: -415px;
+}
+
+#img5{
+	float: left;
+	margin-top: -385px;
+}
+
+#img4{
+	float: left;
+	margin-left: 10px;
+	margin-top: 7px;
+}
+
+#img8{
+	float: right;
+	margin-top: 12px;
+}
+
+#img9{
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+#img10{
+	float: left;
+	margin-top: -27px;
+}

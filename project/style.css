@@ -11,9 +11,9 @@
 
 #logo{
 	text-align: center;
-	font-family: serif;
+	font-family: monospace;
 	color: white;
-	font-weight: bold;
+	font-weight: bolder;
 	letter-spacing: 1px;
 	padding-top: 50px;
 }
