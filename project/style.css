@@ -18,6 +18,15 @@
 	padding-top: 50px;
 }
 
+#logo1{
+	text-align: center;
+	font-family: serif;
+	color: white;
+	font-weight: bolder;
+	letter-spacing: 1px;
+	padding-top: 50px;
+}
+
 #div1{
 	width: 800px;
 	height: 30px;
