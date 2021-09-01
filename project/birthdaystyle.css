@@ -6,6 +6,7 @@ body{
 	width: 1903px;
 	height: 3602px;
 	background: url(bg1.jpg);
+	margin: 0 auto;
 }
 
 #head{
